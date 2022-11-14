@@ -17,3 +17,8 @@ def test_3():
     sc = score(100)
     test_score = 20
     assert test_score == sc
+
+
+test_1()
+test_2()
+test_3()
