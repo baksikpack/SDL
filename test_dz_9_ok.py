@@ -3,7 +3,7 @@ from dz_9 import score
 
 def test_1():
     sc = score(17)
-    test_score = 18
+    test_score = -1
     assert test_score == sc
 
 
